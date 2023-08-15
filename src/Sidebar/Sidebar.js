@@ -1,6 +1,5 @@
 import Category from './Category/Category';
 import Price from './Price/Price';
-import Colors from './Colors/Colors';
 import './Sidebar.css'
 
 function Sidebar() {
@@ -11,8 +10,6 @@ function Sidebar() {
 
         <Category/>
         <Price/>
-        <Colors/>
-
       </section>
     </>
   )
